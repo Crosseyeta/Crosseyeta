@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Crosseyeta
-- 👀 I’m interested in game developing
 - 🌱 I’m currently learning JS,C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ayberkglvrn@icloud.com
