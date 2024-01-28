@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Crosseyeta
-- 🌱 I’m currently learning JS,C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ayberkglvrn@icloud.com
+- 🌱 I’m currently learning JS
+- 📫 How to reach me ayberkglvrn1@gmail.com
 
 <!---
 Crosseyeta/Crosseyeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
