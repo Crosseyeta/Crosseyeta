@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Crosseyeta
-- 🌱 I’m currently learning JS
 - 📫 How to reach me ayberkglvrn1@gmail.com
 
 <!---
